@@ -25,6 +25,8 @@ We use a simple model to build the NER tagger, the proposed model  has only tree
 
 ## 6. References
 [1] *Introduction to the CoNLL-2002 Shared Task: Language-Independent Named Entity Recognition,* Erik F. and Tjong Kim Sang. 
+
 [2] *Introduction to the CoNLL-2003 Shared Task: Language-Independent Named  Recognition,* Erik F. Tjong Kim Sang and Fien De Meulder.
+
 [3] *Named Entity Recognition in Tweets: An Experimental Study* Alan Ritter, Sam Clark, Mausam and Oren Etzioni.
     
