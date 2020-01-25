@@ -5,7 +5,6 @@ models/
 logdir/
 
 
-*.ipynb
 *.pyc
 *.txt
 *.py
